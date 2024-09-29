@@ -22,7 +22,7 @@ HW requirement:
 * Computer with CUDA-enabled GPU/ Google Collab
 
 SW requirement:
-* Python
+* Python, Jupyter Notebook
 
 Team Member lead roles:
 * David: software, algorithm design
@@ -30,10 +30,16 @@ Team Member lead roles:
 * Truong: research
 
 Team member responsibilities:
-* Work to be done: 
+* Work to be done:
+  * Research types of adversarial attacks
+  * Implement FL with different datasets
+  * Feed the FL with different levels of heterogeneity
+  * Characterize each FL model after each test
+  * Compare each test
 
 References:
 * Communication-Efficient learning of deep networks from decentralized data (http://
 proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)
+
 * Example codes for different data partionings https://github.com/SMILELab-FL/FedLab/tree/master/tutorials/
 Datasets-DataPartitioner-tutorials ( https://arxiv.org/pdf/2303.17580)
