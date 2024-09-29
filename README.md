@@ -18,6 +18,7 @@ Deliverables::
 
 System blocks:
 
+
 HW requirement:
 * Computer with CUDA-enabled GPU/ Google Collab
 
