@@ -5,8 +5,7 @@ Group Members: David Nguyen, Jonathan Wang, Truong Son Vu
 Project Choice #5 Federated Learning on Heterogeneous Sensor Data
 
 Motivation: 
-* We are motivated to gain an intuition about the impacts of data on machine learning from understanding how data heterogeneity affects federated learning.
-* One of us is currently working an honors thesis relating to federated learning
+* We are motivated to gain an intuition about the impacts of data on machine learning from understanding how data heterogeneity affects federated learning
 * Has a security component (performing adversarial attacks) which is interesting
 
 Design goal:
