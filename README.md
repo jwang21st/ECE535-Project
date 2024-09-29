@@ -48,3 +48,6 @@ proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)
 
 * Example codes for different data partionings https://github.com/SMILELab-FL/FedLab/tree/master/tutorials/
 Datasets-DataPartitioner-tutorials ( https://arxiv.org/pdf/2303.17580)
+
+* Different Attacks on FL
+  https://ieeexplore.ieee.org/abstract/document/9945997
