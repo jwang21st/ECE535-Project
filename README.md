@@ -30,9 +30,9 @@ Team Member lead roles:
 * Truong: research
 
 Team member responsibilities:
-Jonathan - (1)(5)
-Sam - (4)(5)
-David - (2)(3)
+* Jonathan - (1)(5)
+* Sam - (4)(5)
+* David - (2)(3)
 
 * Work to be done:
   * Research types of adversarial attacks (1)
