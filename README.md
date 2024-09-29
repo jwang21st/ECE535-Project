@@ -30,14 +30,16 @@ Team Member lead roles:
 * Truong: research
 
 Team member responsibilities:
-Jonathan - Research into attacks 
+Jonathan - (1)(5)
+Sam - (4)(5)
+David - (2)(3)
 
 * Work to be done:
-  * Research types of adversarial attacks
-  * Implement FL with different datasets
-  * Feed the FL with different levels of heterogeneity
-  * Characterize each FL model after each test
-  * Compare each test
+  * Research types of adversarial attacks (1)
+  * Implement FL with different datasets (2)
+  * Feed the FL with different levels of heterogeneity (3)
+  * Characterize each FL model after each test (4)
+  * Compare each test (5)
 
 References:
 * Communication-Efficient learning of deep networks from decentralized data (http://
