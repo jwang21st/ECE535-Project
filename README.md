@@ -30,6 +30,8 @@ Team Member lead roles:
 * Truong: research
 
 Team member responsibilities:
+Jonathan - Research into attacks 
+
 * Work to be done:
   * Research types of adversarial attacks
   * Implement FL with different datasets
