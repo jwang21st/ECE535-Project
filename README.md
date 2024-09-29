@@ -17,7 +17,7 @@ Deliverables::
 * Comparisons between the adversarial vs non-adversarial settings and the impact of heterogeneity on them
 
 System blocks:
-![Untitled presentation (2)-1](https://github.com/user-attachments/assets/2ed4ae24-417d-4f5c-8096-4d6f97d6d430)
+![System block-1](https://github.com/user-attachments/assets/2487a72a-b18f-4ad5-9137-c9463354b521)
 
 HW requirement:
 * Computer with CUDA-enabled GPU/ Google Collab
